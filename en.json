@@ -38,6 +38,7 @@
   "Archive": "Archive",
   "Are you sure that you want to cancel the Receipt {show_id}?": "Are you sure that you want to cancel the Receipt <strong>{show_id}</strong>?",
   "Are you sure that you want to cancel the reservation {id}?": "Are you sure that you want to cancel the reservation {id}?",
+  "Are you sure that you want to transfer the Unit": "Are you sure that you want to transfer the Unit",
   "Arrival date": "Arrival date",
   "Attachments": "Attachments",
   "Balance": "Balance",
